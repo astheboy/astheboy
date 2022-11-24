@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning 파이썬, 데이터 활용 교육
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-
+    - twitter : https://twitter.com/SeungRyun
+    - facebook : https://www.facebook.com/ryun82
+    - Blog : https://han-sr.com ; https://astheboy.github.io
 <!---
 astheboy/astheboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
