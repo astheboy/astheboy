@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @astheboy
-- 👀 I’m interested in 컴퓨터 교육, 에듀테크 기술, 프로그래밍
-- 🌱 I’m currently learning 파이썬, 데이터 활용 교육
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-    - twitter : https://twitter.com/SeungRyun
-    - facebook : https://www.facebook.com/ryun82
+- 👋 안녕하세요. 상상 속 프로그래머를 꿈꾸는 상상코더(@astheboy)입니다.
+- 👀 관심분야: 컴퓨터 교육, 에듀테크 기술, 프로그래밍
+- 🌱 공부분야: 파이썬, 데이터 활용 교육, 에듀테크 활용 교육
+- 📫 연락
+    - Twitter : https://twitter.com/SeungRyun
+    - Facebook : https://www.facebook.com/ryun82
     - Blog : https://han-sr.com ; https://astheboy.github.io
 <!---
 astheboy/astheboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
