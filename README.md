@@ -2,7 +2,7 @@
 - 👀 관심분야: 컴퓨터 교육, 에듀테크 기술, 프로그래밍
 - 🌱 공부분야: 파이썬, 데이터 활용 교육, 에듀테크 활용 교육
 - 📗 파이썬 코드 노트: https://github.com/astheboy/Python_Study
-- 📝 상상코더 블로그: https://astheoby.github.io
+- 📝 상상코더 블로그: https://astheboy.github.io
 - 📫 소통공간
     - Twitter : https://twitter.com/SeungRyun
     - Facebook : https://www.facebook.com/ryun82
